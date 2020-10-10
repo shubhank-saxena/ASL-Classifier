@@ -47,4 +47,4 @@ To use webcam, use the following command:
 ```
 python3 classify_webcam.py
 ```
-Your hand must be inside the rectangle. Keep position to write word, see demo for deletions.
+Your hand must be inside the rectangle. Keep position to write word.
